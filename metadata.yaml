@@ -1,0 +1,32 @@
+_repo: Coralie--13-Everyday-Life-Library-No.-2_13162
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brame, Charlotte M.
+    aliases:
+    - Brame, Charlotte Mary
+    - Clay, Bertha M.
+    - Braeme, Charlotte Monica
+    birthdate: 1836
+    deathdate: 1884
+    gutenberg_agent_id: '878'
+    url: http://www.gutenberg.org/2009/agents/878
+description: Title; Contents; Chapter I; Chapter II; Chapter III; Chapter IV; Chapter
+  V; Chapter VI; Chapter VII; Chapter VIII; Chapter IX; Chapter X; Chapter XI; Chapter
+  XII; Chapter XIII; Chapter XIV; Endnotes
+gutenberg_issued: '2004-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13162'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+title: "Coralie\r\nEveryday Life Library No. 2"
+url: http://www.gutenberg.org/ebooks/13162
